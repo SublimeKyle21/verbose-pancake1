@@ -1,0 +1,3 @@
+# verbose-pancake1
+It's not a pancake, but it can be quite verbose
+file 1, chapter 1...
