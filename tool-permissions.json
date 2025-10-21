@@ -1,0 +1,27 @@
+{
+  "tool-permissions": [
+    { "tool-name": "add_tasks", "permission": { "type": "allow" } },
+    { "tool-name": "codebase-retrieval", "permission": { "type": "allow" } },
+    { "tool-name": "github-api", "permission": { "type": "allow" } },
+    { "tool-name": "glean", "permission": { "type": "allow" } },
+    { "tool-name": "kill-process", "permission": { "type": "allow" } },
+    { "tool-name": "launch-process", "permission": { "type": "allow" } },
+    { "tool-name": "linear", "permission": { "type": "allow" } },
+    { "tool-name": "list-processes", "permission": { "type": "allow" } },
+    { "tool-name": "notion", "permission": { "type": "allow" } },
+    { "tool-name": "read-process", "permission": { "type": "allow" } },
+    { "tool-name": "remove-files", "permission": { "type": "allow" } },
+    { "tool-name": "reorganize_tasklist", "permission": { "type": "allow" } },
+    { "tool-name": "save-file", "permission": { "type": "allow" } },
+    { "tool-name": "str-replace-editor", "permission": { "type": "allow" } },
+    { "tool-name": "supabase", "permission": { "type": "allow" } },
+    { "tool-name": "update_tasks", "permission": { "type": "allow" } },
+    { "tool-name": "web-fetch", "permission": { "type": "allow" } },
+    { "tool-name": "view", "permission": { "type": "allow" } },
+    { "tool-name": "web-search", "permission": { "type": "allow" } },
+    { "tool-name": "write-process", "permission": { "type": "allow" } }
+  ],
+  "indexingAllowDirs": ["/data/data/com.termux/files/home/storage"],
+  "verbose": true,
+  "model": "claude-sonnet-4-0-200k-v8-c4-p2-agent"
+}
